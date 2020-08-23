@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Curreny</string>
+    
+    <string-array name="country">
+        <item>한국(KRW)</item>
+        <item>일본(JPY)</item>
+        <item>필리핀(PHP)</item>
+    </string-array>
+</resources>
